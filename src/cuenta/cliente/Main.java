@@ -8,7 +8,7 @@ public class Main {
 
 	private static void operativa_cuenta(float cantidad) {
 		Cuenta cuenta1;
-		double saldoActual;
+		// double saldoActual;
 
 		cuenta1 = new Cuenta("Rafael Nadal Parera", "1000-2365-85-1230456789", 2500, 0);
 
